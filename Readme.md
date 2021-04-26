@@ -84,8 +84,3 @@ ___
 https://mapty-map-your-workouts-oop.netlify.app/
   
 ___    
-
-## BONUS ❤️
-**PWA**  
-
-You can **download** this app in your mobile/desktop 
