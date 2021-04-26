@@ -81,7 +81,7 @@ ___
 ___  
 
 ## DEMO
-https://mapty-map-your-workouts-oop-pwa.netlify.app/ 
+https://mapty-map-your-workouts-oop.netlify.app/
   
 ___    
 
